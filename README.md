@@ -1,10 +1,8 @@
 ===================================================================
-
  Daniel Abrego
  Udacity FEND P6 Feed Reader Testing
 
  README
-
 ===================================================================
 
 This application will complete Jasmine test suites for a web-based RSS feed reader
