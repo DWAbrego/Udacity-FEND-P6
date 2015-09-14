@@ -34,11 +34,14 @@ webpage was clicked by a user.
 
 
 **Files that were edited for this project:**
+
 jasmine/spec/feedreader.js
 
 
 **Resources:**
+
 Video: Udacity FEND nanodegree Javascript Testing course
+
 Excerpts from book: JavaScript Testing with Jasmine By Evan Hahn
 
 
